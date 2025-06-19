@@ -4,22 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d4cabf4-e606-459f-bdde-877c8dacebab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCodeSolutions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arraysandhashing/concatenationofarray_1929/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arraysandhashing/concatenationofarray_1929/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arraysandhashing/containsduplicate_217/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arraysandhashing/containsduplicate_217/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arraysandhashing/twosum_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arraysandhashing/twosum_1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arraysandhashing/validanagram_242/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arraysandhashing/validanagram_242/Solutoin.java" afterDir="false" />
+    <list default="true" id="4d4cabf4-e606-459f-bdde-877c8dacebab" name="Changes" comment="192, 217, 1, 242 solved">
+      <change afterPath="$PROJECT_DIR$/src/arraysandhashing/longestcommonprefix_14/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraysandhashing/longestcommonprefix_14/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "turganaliev"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/turganaliev/LC.git",
+    "accountId": "24c56fe4-3baa-4799-bfd6-d61625a87038"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -52,6 +52,7 @@
     "Application.Main.executor": "Run",
     "Application.arraysandhashing.concatenationofarray_1929.Main.executor": "Run",
     "Application.arraysandhashing.containsduplicate_217.Main.executor": "Run",
+    "Application.arraysandhashing.longestcommonprefix_14.Main.executor": "Run",
     "Application.arraysandhashing.validanagram_242.Main.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "Repository.Attach.Annotations": "false",
@@ -64,7 +65,7 @@
     "onboarding.tips.debug.path": "/Users/izatturganaliev/Documents/LeetCodeSolutions/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.arraysandhashing.concatenationofarray_1929.Main">
+  <component name="RunManager" selected="Application.arraysandhashing.longestcommonprefix_14.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arraysandhashing.twosum_1.Main" />
       <module name="LeetCodeSolutions" />
@@ -104,6 +105,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="arraysandhashing.longestcommonprefix_14.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arraysandhashing.longestcommonprefix_14.Main" />
+      <module name="LeetCodeSolutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arraysandhashing.longestcommonprefix_14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="arraysandhashing.validanagram_242.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arraysandhashing.validanagram_242.Main" />
       <module name="LeetCodeSolutions" />
@@ -119,6 +133,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.arraysandhashing.longestcommonprefix_14.Main" />
         <item itemvalue="Application.arraysandhashing.concatenationofarray_1929.Main" />
         <item itemvalue="Application.arraysandhashing.containsduplicate_217.Main" />
         <item itemvalue="Application.arraysandhashing.validanagram_242.Main" />
@@ -135,6 +150,19 @@
       <option name="presentableId" value="Default" />
       <updated>1750188669027</updated>
     </task>
+    <task id="LOCAL-00001" summary="192, 217, 1, 242 solved">
+      <option name="closed" value="true" />
+      <created>1750204729978</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1750204729979</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="192, 217, 1, 242 solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="192, 217, 1, 242 solved" />
   </component>
 </project>
